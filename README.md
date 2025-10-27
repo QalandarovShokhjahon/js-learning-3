@@ -37,6 +37,7 @@ let age = 17;
 console.log(`Siz ${age} yoshdasiz.`);
 console.log(`Kelasi yili ${age + 1} yosh bo‘lasiz.`);
 
+
 🧩 Qisqacha nazariya / Short Theory
 
 🔹 alert() — foydalanuvchiga xabar chiqaradi.
