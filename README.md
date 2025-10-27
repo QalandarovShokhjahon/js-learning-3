@@ -1,11 +1,12 @@
-🧠 JavaScript Day 3 — User Interaction & String Interpolation
+# 🧠 JavaScript Day 3 — User Interaction & String Interpolation
 
-Bu darsda men foydalanuvchi bilan ishlash (User Interaction) va interpolatsiya (String Interpolation) mavzularini o‘rgandim.
-Dars davomida prompt(), alert(), confirm() funksiyalari yordamida foydalanuvchi bilan qanday aloqa qilishni va
-${} sintaksisi yordamida matn ichiga o‘zgaruvchilarni joylashtirishni sinab chiqdim.
+Bu darsda men **JavaScript’da Foydalanuvchi bilan ishlash (User Interaction)** va **Interpolatsiya (String Interpolation)** bilan tanishdim.  
+Har bir misolda kodlar orqali ularning ishlash tartibini sinab chiqdim.
 
-📚 O‘rganganlarim / What I learned
+---
 
+## 📚 O‘rganganlarim / What I learned
+  
 -prompt() yordamida foydalanuvchidan ma’lumot olishni o‘rgandim.
 → I learned how to get input from the user using prompt().
 
@@ -21,7 +22,9 @@ ${} sintaksisi yordamida matn ichiga o‘zgaruvchilarni joylashtirishni sinab ch
 -Backtick (`) va ${} sintaksisi + bilan qo‘shishdan qulayroq ekanini bildim.
 → I discovered that using backticks and ${} is cleaner than concatenation with +.
 
-💻 Kod namunasi / Example code
+---
+
+💻 #Kod namunasi / Example code
 // User Interaction
 let name = prompt("Ismingizni kiriting:");
 alert(`Salom, ${name}!`); // Interpolation
