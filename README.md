@@ -24,18 +24,18 @@ Har bir misolda kodlar orqali ularning ishlash tartibini sinab chiqdim.
 
 ---
 
-💻 #Kod namunasi / Example code
+## 💻 Kod namunasi / Example code
+
+```javascript
 // User Interaction
-let name = prompt("Ismingizni kiriting:");
-alert(`Salom, ${name}!`); // Interpolation
+let ism = prompt('Ismingiz nima?');
+let yosh = prompt('Yoshingiz nechida?');
+alert('Assalomu Alekum, ' + ism + ' Siz ' + yosh + ' yoshdasiz');
 
-let continueLesson = confirm("Darsni davom ettirasizmi?");
-console.log(continueLesson);
-
-// Interpolation examples
-let age = 17;
-console.log(`Siz ${age} yoshdasiz.`);
-console.log(`Kelasi yili ${age + 1} yosh bo‘lasiz.`);
+// String Interpolation
+const user = "Shokhjahon";
+const job = "Frontend Developer";
+console.log(`User name is ${user}, he is ${job}👨‍💻`);
 
 
 🧩 Qisqacha nazariya / Short Theory
