@@ -44,3 +44,12 @@ console.log(`User name is ${user}, he is ${job}👨‍💻`);
 🔹 prompt() — foydalanuvchidan ma’lumot oladi.
 🔹 confirm() — foydalanuvchidan ha/yo‘q (true/false) javobini qaytaradi.
 🔹 template literals (`) — interpolatsiya uchun ishlatiladi, ${} orqali o‘zgaruvchi joylashtiriladi.
+
+🎯 Maqsad / Goal
+
+Foydalanuvchi bilan JavaScript orqali oddiy muloqot o‘rnatish va matnlarda o‘zgaruvchilardan foydalanish ko‘nikmasini mustahkamlash.
+
+💬 Muallif / Author
+
+✍️ Shokhjahon Qalandarov
+📅 Dars: 3-kun — User Interaction & String Interpolation
